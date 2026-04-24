@@ -1,17 +1,17 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1108,100:0d1117&height=200&section=header&text=Felipe%20Lima&fontSize=58&fontColor=F59E0B&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20Cloud%20%E2%80%A2%20Infrastructure&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1108,100:0d1117&height=200&section=header&text=Felipe%20Lima&fontSize=58&fontColor=F59E0B&fontAlignY=36&desc=Cloud%20%E2%80%A2%20Cybersecurity%20%E2%80%A2%20Infrastructure&descAlignY=56&descSize=18&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=F59E0B&center=true&vCenter=true&width=680&height=50&lines=Estudante+de+ADS+%7C+Buscando+est%C3%A1gio+em+TI;Dev+Full-Stack+%E2%80%A2+Cloud+%E2%80%A2+Infraestrutura;Transformando+ideias+em+solu%C3%A7%C3%B5es+reais+%F0%9F%9A%80;Do+audiovisual+ao+c%C3%B3digo+%E2%80%94+sempre+criando)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=800&color=F59E0B&center=true&vCenter=true&width=680&height=50&lines=Cloud+Computing+%26+AWS+%E2%80%94+Building+real+infra;Cybersecurity+%E2%80%A2+Blue+Team+%E2%80%A2+Hardening;Linux+Server+Admin+%E2%80%A2+Automation+%E2%80%A2+Networks;Dev+background+%E2%80%94+Infra+%26+Security+mindset+%F0%9F%94%90)](https://git.io/typing-svg)
 
 </div>
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-limaxx.space-F59E0B?style=for-the-badge&labelColor=0d1117)](https://limaxx.space)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/felipe-pereira-lima-35904b305/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe_Lima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/limaxx/)
 [![Gmail](https://img.shields.io/badge/Email-felipeplima2007@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:felipeplima2007@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-__limaxx__-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://www.instagram.com/__limaxx_/)
 
@@ -25,23 +25,24 @@
 
 <img align="right" height="220" alt="coding" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/>
 
-Olá! Sou o **Felipe**, estudante de Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul e entusiasta de tudo que envolve tecnologia, cloud e infraestrutura.
+Olá! Sou o **Felipe**, profissional de TI em formação com foco em **Cloud Computing, Cybersecurity e Infraestrutura**. Cursando Análise e Desenvolvimento de Sistemas na Cruzeiro do Sul.
 
-Minha jornada começou no **audiovisual**, onde atuei por 3 anos como editor de vídeo freelancer. Essa experiência me ensinou algo que levo comigo até hoje: **disciplina, comunicação com clientes e entrega dentro do prazo**.
+Minha jornada começou no **audiovisual**, onde atuei por 3 anos como editor de vídeo freelancer. Essa experiência me ensinou algo que aplico diretamente na área técnica: **disciplina operacional, comunicação com clientes e entrega dentro do prazo** — diferenciais que a maioria dos candidatos técnicos não tem.
 
-Hoje transformo essa bagagem em código. Construo aplicações full-stack, faço deploy em cloud e estudo infraestrutura Linux. Acredito que a melhor forma de aprender é **colocando a mão na massa** — por isso cada projeto que você vê aqui é uma etapa dessa evolução.
+Depois migrei para desenvolvimento web, onde construí base sólida em frontend e backend. Hoje uso esse conhecimento como diferencial em infraestrutura e segurança: **entender como aplicações funcionam por dentro torna o trabalho de cloud e cyber mais preciso e eficaz.**
 
-🎯 **Em busca da primeira oportunidade** em Dev, Cloud, Infra ou Service Desk.
+🎯 **Construindo especialização em:** Servidores Linux · Cloud AWS · Redes TCP/IP · Blue Team · Hardening
 
 ```yaml
 name: Felipe Lima
 location: São Paulo, Brasil 🇧🇷
 age: 18 anos
-education: Análise e Desenvolvimento de Sistemas (2025-2027)
-focus: ["Full-Stack", "Cloud", "Infra", "Segurança"]
-english: Intermediário 📚
-hobbies: ["Tecnologia", "Audiovisual", "Games", "Aprender coisas novas"]
-available_for: Estágio imediato
+education: Análise e Desenvolvimento de Sistemas (2025-2026)
+focus: ["Cloud AWS", "Cybersecurity", "Infra Linux", "Blue Team"]
+background: ["Dev Web", "Audiovisual Freelancer"]
+english: Básico — em estudo técnico ativo 📚
+currently_studying: ["AWS Cloud Practitioner", "TryHackMe SOC", "CCNAv7", "Linux Admin"]
+available_for: Suporte TI · Infraestrutura Jr · SOC N1
 ```
 
 <br clear="both"/>
@@ -52,7 +53,22 @@ available_for: Estágio imediato
 
 <div align="center">
 
-### 💻 Desenvolvimento
+### ☁️ Cloud & Infraestrutura
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+### 🔐 Cybersecurity & Redes
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+### 💻 Desenvolvimento (background)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -60,16 +76,7 @@ available_for: Estágio imediato
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-
-### ☁️ Cloud & Infraestrutura
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ### 🗄️ Banco de Dados & Ferramentas
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
@@ -131,22 +138,23 @@ available_for: Estágio imediato
 
 ### 🔨 Construindo agora
 
-- 🥗 **NutriAI** — App de nutrição com IA
-- 💈 **Lucks Studio** — Sistema de barbearia
-- 🌐 **Strike Media** — Site institucional
-- 🐍 **Python Automation** — Scripts de automação
-- ☁️ **AWS Deploy Pipeline** — CI/CD na nuvem
+- 🥗 **NutriAI** — App de nutrição com IA (full stack integrado com IA)
+- 🐧 **Linux Server Lab** — Servidor Ubuntu hardenizado com SSH, UFW, Fail2Ban e Nginx
+- 🐍 **Python Sysadmin Toolkit** — Scripts de automação: monitoramento, backup, análise de logs
+- 🌐 **Network Lab Cisco** — Topologia com VLANs, roteamento e ACLs no Packet Tracer
+- ☁️ **AWS Cloud Deploy** — Aplicação em produção com EC2, S3, IAM e VPC documentada
+- 🔐 **Cyber Hardening Lab** — Auditoria com Lynis, scan com Nmap, hardening documentado
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎯 Próximos passos
 
-- 🏗️ **Terraform AWS Infra** — IaC completo
-- 🐳 **Docker Labs** — Ambientes dev reprodutíveis
-- 📡 **Network Monitor** — Monitoramento de rede
-- 🔐 **Security Toolkit** — Ferramentas básicas
-- 🚀 **SaaS Multi-tenant** — Plataforma completa
+- 🏗️ **Terraform AWS Infra** — Infraestrutura como Código: toda a arquitetura AWS em Terraform
+- 🐳 **Docker Lab** — Containers de aplicações reais com boas práticas de segurança
+- 📡 **SOC Home Lab** — Ambiente de detecção com SIEM, análise de tráfego e resposta a incidentes
+- 🔒 **Cloud Security Lab** — IAM avançado, políticas de segurança e monitoramento com CloudWatch
+- ⚙️ **CI/CD Pipeline** — Deploy automatizado com GitHub Actions e segurança no pipeline
 
 </td>
 </tr>
@@ -157,23 +165,24 @@ available_for: Estágio imediato
 <div align="center">
 
 ```text
-☁️  AWS Cloud Practitioner      ████████████░░░░░░  65%
-🐧  Linux & Server Admin        ██████████░░░░░░░░  55%
-🔐  Segurança da Informação     ████████░░░░░░░░░░  45%
-🐳  Docker & Containers         ███████████░░░░░░░  60%
-🏗️  Terraform / IaC             █████░░░░░░░░░░░░░  30%
+☁️  AWS Cloud Practitioner (CLF-C02)   ████████████░░░░░░  em progresso
+🐧  Linux & Server Administration      ██████████░░░░░░░░  em progresso
+🛡️  TryHackMe — Pre-Security + SOC     ████████░░░░░░░░░░  em progresso
+🌐  Cisco NetAcad CCNAv7               ███████░░░░░░░░░░░  em progresso
+🐍  Python para Automação (Sysadmin)   ██████████░░░░░░░░  em progresso
+🇺🇸  Inglês Técnico para TI            ███████░░░░░░░░░░░  em progresso
 ```
 
 </div>
 
-### 🏅 Certificações planejadas para 2026
+### 🏅 Certificações — Trilha 2026
 
 <div align="center">
 
+![Google IT Support](https://img.shields.io/badge/Google_IT_Support-Em_Andamento-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117)
+![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Cert-Planejado-4285F4?style=flat-square&logo=google&logoColor=white&labelColor=0d1117)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS_Cloud_Practitioner-Planejado-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=232F3E)
-![AWS Solutions Architect](https://img.shields.io/badge/AWS_Solutions_Architect-Planejado-FF9900?style=flat-square&logo=amazonaws&logoColor=white&labelColor=232F3E)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA_Security+-Planejado-C8102E?style=flat-square&logo=comptia&logoColor=white&labelColor=0d1117)
-![Linux LPIC-1](https://img.shields.io/badge/Linux_LPIC--1-Planejado-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
@@ -183,10 +192,10 @@ available_for: Estágio imediato
 
 <div align="center">
 
-Tô sempre aberto para bater um papo sobre tecnologia, trocar ideia sobre projetos ou uma boa oportunidade!
+Aberto para trocar ideia sobre Cloud, Cybersecurity, Infraestrutura e oportunidades na área de TI!
 
 [![Email](https://img.shields.io/badge/📧_Mandar_Email-F59E0B?style=for-the-badge&labelColor=0d1117)](mailto:felipeplima2007@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_Conectar_no_LinkedIn-0A66C2?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/in/felipe-pereira-lima-35904b305/)
+[![LinkedIn](https://img.shields.io/badge/💼_Conectar_no_LinkedIn-0A66C2?style=for-the-badge&labelColor=0d1117)](https://www.linkedin.com/in/limaxx/)
 [![Portfolio](https://img.shields.io/badge/🌐_Ver_Portfolio-F59E0B?style=for-the-badge&labelColor=0d1117)](https://limaxx.space)
 
 </div>
@@ -198,7 +207,7 @@ Tô sempre aberto para bater um papo sobre tecnologia, trocar ideia sobre projet
 ![Profile Views](https://komarev.com/ghpvc/?username=pkeddits&color=F59E0B&style=for-the-badge&label=Visitantes+do+Perfil)
 ![GitHub followers](https://img.shields.io/github/followers/pkeddits?style=for-the-badge&color=F59E0B&labelColor=0d1117)
 
-<i>⚡ "Construindo o futuro, uma linha de código por vez."</i>
+<i>🔐 "Infraestrutura sólida. Segurança por design. Automação sempre."</i>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1108,100:0d1117&height=120&section=footer" width="100%"/>
 
