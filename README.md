@@ -36,7 +36,7 @@ Depois migrei para desenvolvimento web, onde construí base sólida em frontend 
 ```yaml
 name: Felipe Lima
 location: São Paulo, Brasil 🇧🇷
-age: 18 anos
+age: 19 anos
 education: Análise e Desenvolvimento de Sistemas (2025-2026)
 focus: ["Cloud AWS", "Cybersecurity", "Infra Linux", "Blue Team"]
 background: ["Dev Web", "Audiovisual Freelancer"]
